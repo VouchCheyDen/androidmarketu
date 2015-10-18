@@ -1,0 +1,1 @@
+Mount the device on your computer than move the .apk to your device and run it.
